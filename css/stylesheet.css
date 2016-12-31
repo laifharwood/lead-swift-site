@@ -1,0 +1,282 @@
+/* Header */
+
+.pricing-header-image {
+    background: url(../img/Pricing_Hero_Illo.svg);
+    height: 600px;
+}
+
+.partner-header-image {
+    background: url(../img/Partners_Hero_Illo.svg);
+    height: 600px;
+}
+
+.demo-back-image {
+    background: url(../img/Form_Back_Illustration.svg);
+    height: 600px;
+}
+
+.demo-header-image {
+    background: url(../img/Demo_Hero_Illustration.svg);
+    height: 600px;
+}
+
+.about-header-image {
+    background: url(../img/about-header.png);
+    height: 600px;
+}
+
+.takeoff-image {
+    background: url(../img/background.png);
+    height: 600px;
+}
+
+.pyramid-image {
+    background: url(../img/GetStarted_Background.svg);
+}
+
+.mission-image {
+    background: url(../img/CaseStudy_Illo.svg);
+    height: 700px;
+    background-repeat: no-repeat;
+    background-position:center;
+}
+
+.header-image {
+    background: url(../img/HP_Hero_Background.svg);
+    height: 600px;
+}
+
+.chart-image {
+    background: url(../img/CrashBurn_LeadsDark_Background.svg);
+}
+
+.background-img {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+}
+/* temporary font-family */
+.sans-serif {
+    font-family: sans-serif;
+}
+
+/* About, Home pages */
+.width-full {
+    width: 100%;
+}
+
+.mt16 {
+    margin-top: 16rem;
+}
+
+.mt12 {
+    margin-top: 12rem;
+}
+
+.border-btm {
+    border-bottom: 1px solid #000;
+}
+
+.border-btm-light {
+	border-bottom: 1px solid #ACAC9D;
+}
+
+.width-80 {
+    width: 80%;
+}
+
+.width-50 {
+    width: 50%;
+} 
+
+.width-20 {
+    width: 20%;
+}
+
+.width-60 {
+	width: 60%
+}
+
+.width-40 {
+    width: 40%;
+}
+
+.header-text {
+    bottom: 10em;
+}
+
+.graph-text {
+    bottom: 4em;
+}
+
+.pbxs {
+    padding-bottom: 0.1rem;
+}
+
+.line-height {
+    line-height: 30px;
+}
+
+.line-height-sm {
+    line-height: 20px;
+}
+
+.padding-top-md {
+    padding-top: 20%;
+}
+
+.h-big {
+    font-size: 3rem;
+}
+
+.right-11 {
+    right: 11rem;
+}
+
+.bottom-13 {
+    bottom: 13rem;
+}
+
+.top-4 {
+    top: 4rem;
+}
+
+.left-11 {
+	left: 11rem;
+}
+
+.top-16 {
+    top: 16rem;
+}
+
+.top-minus {
+    top: -3rem;
+}
+.bottom-2 {
+    bottom: 2rem;
+}
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    color: #CBCFDA;
+    padding-right: 35px;
+}
+
+::-moz-placeholder { /* Firefox 19+ */
+    color: #CBCFDA;
+    padding-right: 35px;
+}
+
+:-ms-input-placeholder { /* IE 10+ */
+    color: #CBCFDA;
+    padding-right: 35px;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+    color: #CBCFDA;
+    padding-right: 35px;
+}
+
+.input-padding {
+    padding-top: .6rem;
+    padding-bottom: .6rem;
+}
+
+.padding-btn {
+    padding: .8rem;
+}
+
+/* Demo page */
+.demo-img {
+    width: 35px;
+}
+
+.height-410 {
+    height: 410px;
+}
+
+.demo-icons-p {
+    padding: 8.5px 0px 11px 3px;
+}
+
+.demo-input-padding {
+    padding-top: 12px;
+    padding-bottom: 11px;
+}
+
+.demo-btn {
+    padding: .8rem 1.5rem .8rem 1.5rem;
+}
+
+.py6 {
+    padding-bottom: 6rem;
+    padding-top: 6rem;
+}
+
+.clear {
+    clear: both;
+}
+
+.pt8 {
+    padding-top: 8.4rem;
+}
+
+/* Pricing Page */
+
+
+/* Colors */
+
+.red-bg {
+	background-color: #FF5335; 
+}
+
+.white {
+	color: #FFF;
+}
+
+.grey {
+    color: #80858D;
+}
+
+.scarlet {
+    color: #FF7F67;
+}
+
+.links-border-btm {
+    border-bottom: 2px solid #FF7F67;
+}
+
+.links-border {
+    border: 2px solid #FF7F67;
+}
+
+.border-grey {
+    border: 2px solid #CBCFDA;
+}
+
+.light-grey {
+    color: #CBCFDA;
+}
+
+.black {
+    color: #000;
+}
+
+.charcoal-bg {
+    background-color: #2B3341;
+}
+
+.border-black-btm {
+    border-bottom: 3px solid #1D2341;
+}
+
+.border-black-right {
+    border-right: 3px solid #1D2341;
+}
+
+.light-blue {
+    background-color: #AFDDFF;
+}
+
+.beige {
+    background-color: #F5E5CB;
+}
